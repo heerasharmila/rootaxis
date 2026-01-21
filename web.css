@@ -1,0 +1,17 @@
+*{
+padding:0px;
+margin:0px;
+}
+ .header {
+     background-image: linear-gradient(#F0E3FF, #ffffff);
+ }
+.logo{
+    
+    width:220px;
+}
+.paracontainer{
+    padding-top:8rem;
+}
+.buttonrad{
+    border-radius:40px;
+}
